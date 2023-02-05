@@ -34,6 +34,10 @@
   font-weight: bold;
 }
 
+.header a:hover {
+  color: #c291e2;
+}
+
 .header button {
   font: inherit;
   background-color: transparent;
@@ -43,5 +47,10 @@
   padding: 0.5rem 1.5rem;
   border-radius: 6px;
   cursor: pointer;
+}
+
+.header button:hover {
+  background-color: #c291e2;
+  color: #38015c;
 }
 

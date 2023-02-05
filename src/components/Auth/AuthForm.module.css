@@ -9,6 +9,15 @@
   text-align: center;
   color: white;
 }
+.actions button:hover {
+  background-color: #c38f26;
+  border-color: #c38f26;
+}
+
+.actions .toggle:hover {
+  background-color: transparent;
+  color: #c38f26;
+}
 
 .auth h1 {
   text-align: center;

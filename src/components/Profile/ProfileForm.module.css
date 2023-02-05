@@ -39,3 +39,8 @@
   border: 1px solid #628f1f;
 }
 
+.action button:hover {
+  background-color: #4b740d;
+  border-color: #4b740d;
+}
+
